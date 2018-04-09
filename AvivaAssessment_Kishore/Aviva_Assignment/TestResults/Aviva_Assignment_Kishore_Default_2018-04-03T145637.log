@@ -1,0 +1,59 @@
+﻿2018-04-03T14:42:58.4085503+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-03T14:42:59.8284341+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-03T14:42:59.8294397+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-04-03T14:42:59.8294397+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-03T14:43:06.9256931+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-04-03T14:43:06.9274240+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-04-03T14:44:14.2624365+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\Default%20User\Downloads\final_new%20-%20Copy\Aviva_Assignment\Aviva_Assignment\TestResults\Aviva_Assignment_Kishore_Default_2018-04-03T144259.log
+2018-04-03T14:44:14.2634412+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-04-03T14:46:42.7513401+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-03T14:46:42.7603641+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-03T14:46:42.7613667+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-04-03T14:46:42.7623706+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-03T14:46:56.7684055+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-04-03T14:46:56.7694127+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-04-03T14:48:09.3332384+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\Default%20User\Downloads\final_new%20-%20Copy\Aviva_Assignment\Aviva_Assignment\TestResults\Aviva_Assignment_Kishore_Default_2018-04-03T144642.log
+2018-04-03T14:48:09.3352433+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-04-03T14:51:11.6977102+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-03T14:51:11.7067198+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-03T14:51:11.7067198+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-04-03T14:51:11.7077225+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-03T14:51:24.7140868+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-04-03T14:51:24.7160700+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-04-03T14:51:28.9140078+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\Default%20User\Downloads\final_new%20-%20Copy\Aviva_Assignment\Aviva_Assignment\TestResults\Aviva_Assignment_Kishore_Default_2018-04-03T145111.log
+2018-04-03T14:51:28.9151626+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-04-03T14:52:34.8426265+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-03T14:52:34.8516796+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-03T14:52:34.8526663+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-04-03T14:52:34.8533888+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-03T14:52:46.8588345+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-04-03T14:52:46.8598491+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-04-03T14:53:42.1724362+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\Default%20User\Downloads\final_new%20-%20Copy\Aviva_Assignment\Aviva_Assignment\TestResults\Aviva_Assignment_Kishore_Default_2018-04-03T145234.log
+2018-04-03T14:53:42.1734384+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-04-03T14:54:52.2337908+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-03T14:54:52.2418334+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-03T14:54:52.2428451+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-04-03T14:54:52.2428451+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-03T14:55:04.2489493+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-04-03T14:55:04.2508377+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-04-03T14:55:28.5237456+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\Default%20User\Downloads\final_new%20-%20Copy\Aviva_Assignment\Aviva_Assignment\TestResults\Aviva_Assignment_Kishore_Default_2018-04-03T145452.log
+2018-04-03T14:55:28.5247269+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-04-03T14:56:36.9999813+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-03T14:56:37.0080267+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-03T14:56:37.0090040+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-04-03T14:56:37.0090040+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-03T14:56:43.0157141+05:30;Thread#16;Info;Discovering target: Default
+2018-04-03T14:56:43.0177005+05:30;Thread#16;Info;Discovering tests from assembly: D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+Appdomain Disposed
+Test Suite Dump
+#0: Aviva_Assignment_Kishore/Default - 
+#1: Default - 
+#2: Aviva_Assignment_Kishore - 
+#3: Verify the count of Links displayed for the search text and Print 5th Link Text - 
+#4: Search with Aviva and verify results links, Aviva - TestAssembly:Aviva_Assignment_Kishore/Feature:Verify+the+count+of+Links+displayed+for+the+search+text+and+Print+5th+Link+Text/Scenario:Search+with+Aviva+and+verify+results+links%2c+Aviva
+#5: Verify Title in Aviva Home Page, Aviva - TestAssembly:Aviva_Assignment_Kishore/Feature:Verify+the+count+of+Links+displayed+for+the+search+text+and+Print+5th+Link+Text/Scenario:Verify+Title+in+Aviva+Home+Page%2c+Aviva
+#6: Verify Error Message in Aviva Login Page, Aviva - TestAssembly:Aviva_Assignment_Kishore/Feature:Verify+the+count+of+Links+displayed+for+the+search+text+and+Print+5th+Link+Text/Scenario:Verify+Error+Message+in+Aviva+Login+Page%2c+Aviva
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for

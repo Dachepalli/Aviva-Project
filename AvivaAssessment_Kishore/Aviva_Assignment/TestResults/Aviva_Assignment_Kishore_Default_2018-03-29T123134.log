@@ -1,0 +1,95 @@
+﻿2018-03-29T12:23:53.8834202+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-29T12:23:55.4004438+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-29T12:23:55.4014493+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\Default User\Downloads\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-03-29T12:23:55.4014493+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-29T12:24:00.4722621+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-29T12:24:00.4732705+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\Default User\Downloads\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-03-29T12:24:25.0874987+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\Default%20User\Downloads\Aviva_Assignment\Aviva_Assignment\TestResults\Aviva_Assignment_Kishore_Default_2018-03-29T122355.log
+2018-03-29T12:24:25.0885018+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-29T12:25:12.0486978+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-29T12:25:12.0617313+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-29T12:25:12.0617313+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\Default User\Downloads\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-03-29T12:25:12.0627348+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-29T12:25:19.0689208+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-29T12:25:19.0699201+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\Default User\Downloads\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-03-29T12:25:33.0432866+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\Default%20User\Downloads\Aviva_Assignment\Aviva_Assignment\TestResults\Aviva_Assignment_Kishore_Default_2018-03-29T122512.log
+2018-03-29T12:25:33.0442904+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-29T12:26:04.7263801+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-29T12:26:04.7374085+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-29T12:26:04.7384106+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\Default User\Downloads\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-03-29T12:26:04.7384106+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-29T12:26:11.7433911+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-29T12:26:11.7441681+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\Default User\Downloads\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-03-29T12:26:30.0566709+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\Default%20User\Downloads\Aviva_Assignment\Aviva_Assignment\TestResults\Aviva_Assignment_Kishore_Default_2018-03-29T122604.log
+2018-03-29T12:26:30.0576722+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-29T12:27:26.8660879+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-29T12:27:26.8761133+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-29T12:27:26.8771159+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\Default User\Downloads\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-03-29T12:27:26.8771159+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-29T12:27:39.8829332+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-29T12:27:39.8839571+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\Default User\Downloads\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-03-29T12:27:56.1907730+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\Default%20User\Downloads\Aviva_Assignment\Aviva_Assignment\TestResults\Aviva_Assignment_Kishore_Default_2018-03-29T122726.log
+2018-03-29T12:27:56.1917621+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-29T12:31:34.8023029+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-29T12:31:34.8163729+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-29T12:31:34.8173419+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\Default User\Downloads\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-03-29T12:31:34.8173419+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-29T12:31:46.8230428+05:30;Thread#12;Info;Discovering target: Default
+2018-03-29T12:31:46.8240496+05:30;Thread#12;Info;Discovering tests from assembly: D:\Users\Default User\Downloads\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+Appdomain Disposed
+Test Suite Dump
+#0: Aviva_Assignment_Kishore/Default - 
+#1: Default - 
+#2: Aviva_Assignment_Kishore - 
+#3: Verify the count of Links displayed for the search text and Print 5th Link Text - 
+#6: Verify Error Message in Aviva Login Page, Aviva - TestAssembly:Aviva_Assignment_Kishore/Feature:Verify+the+count+of+Links+displayed+for+the+search+text+and+Print+5th+Link+Text/Scenario:Verify+Error+Message+in+Aviva+Login+Page%2c+Aviva
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #6 from normal test queue 
+Thread#0:Scheduler: considering testitem #6 for thread 0
+Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #6 for thread 0
+Thread#0:Scheduler: Test #6 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for Aviva_Assignment_Kishore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\vekishor\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #6/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given Launch browser with Google search engine
+Thread#0:T:*********************PATH***********
+Thread#0:T:D:\Users\Default User\Downloads\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\Locator.json
+Thread#0:T:*********************PATH***********
+Thread#0:T:D:\Users\Default User\Downloads\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\Locator.json
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.GivenLaunchBrowserWithGoogleSearchEngine() (9.6s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\Default User\Downloads\Aviva_Assignment\Aviva_Assignment\TestResults\tmp3D02.jpg ]SCREENSHOT
+Thread#0:B:When user enter 'Aviva' in google search
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenUserEnterInGoogleSearch("Aviva") (0.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\Default User\Downloads\Aviva_Assignment\Aviva_Assignment\TestResults\tmp3E99.jpg ]SCREENSHOT
+Thread#0:B:And click on search button
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenClickOnSearchButton() (12.7s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\Default User\Downloads\Aviva_Assignment\Aviva_Assignment\TestResults\tmp7172.jpg ]SCREENSHOT
+Thread#0:B:Then click on Aviva Login Link in the Google Search Page and click on Login
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.ThenClickOnAvivaLoginLinkInTheGoogleSearchPageAndClickOnLogin() (1.5s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\Default User\Downloads\Aviva_Assignment\Aviva_Assignment\TestResults\tmp78B6.jpg ]SCREENSHOT
+Thread#0:B:And verify the Error Message in the Aviva Login Page
+Thread#0:T:********Error Meassage********
+Thread#0:T:Please fill in all 3 fields.
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.ThenVerifyTheErrorMessageInTheAvivaLoginPage() (0.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\Default User\Downloads\Aviva_Assignment\Aviva_Assignment\TestResults\tmp7AAB.jpg ]SCREENSHOT
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #6/0 is finished on thread #0 as Succeeded within 36.1192371 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1
+Succeeded: 1
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0

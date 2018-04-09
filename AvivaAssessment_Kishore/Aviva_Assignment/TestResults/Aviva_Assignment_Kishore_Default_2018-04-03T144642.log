@@ -1,0 +1,142 @@
+﻿2018-04-03T14:42:58.4085503+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-03T14:42:59.8284341+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-03T14:42:59.8294397+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-04-03T14:42:59.8294397+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-03T14:43:06.9256931+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-04-03T14:43:06.9274240+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-04-03T14:44:14.2624365+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\Default%20User\Downloads\final_new%20-%20Copy\Aviva_Assignment\Aviva_Assignment\TestResults\Aviva_Assignment_Kishore_Default_2018-04-03T144259.log
+2018-04-03T14:44:14.2634412+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-04-03T14:46:42.7513401+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-03T14:46:42.7603641+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-03T14:46:42.7613667+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-04-03T14:46:42.7623706+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-03T14:46:56.7684055+05:30;Thread#19;Info;Discovering target: Default
+2018-04-03T14:46:56.7694127+05:30;Thread#19;Info;Discovering tests from assembly: D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+Appdomain Disposed
+Test Suite Dump
+#0: Aviva_Assignment_Kishore/Default - 
+#1: Default - 
+#2: Aviva_Assignment_Kishore - 
+#3: Verify the count of Links displayed for the search text and Print 5th Link Text - 
+#4: Search with Aviva and verify results links, Aviva - TestAssembly:Aviva_Assignment_Kishore/Feature:Verify+the+count+of+Links+displayed+for+the+search+text+and+Print+5th+Link+Text/Scenario:Search+with+Aviva+and+verify+results+links%2c+Aviva
+#5: Verify Title in Aviva Home Page, Aviva - TestAssembly:Aviva_Assignment_Kishore/Feature:Verify+the+count+of+Links+displayed+for+the+search+text+and+Print+5th+Link+Text/Scenario:Verify+Title+in+Aviva+Home+Page%2c+Aviva
+#6: Verify Error Message in Aviva Login Page, Aviva - TestAssembly:Aviva_Assignment_Kishore/Feature:Verify+the+count+of+Links+displayed+for+the+search+text+and+Print+5th+Link+Text/Scenario:Verify+Error+Message+in+Aviva+Login+Page%2c+Aviva
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for Aviva_Assignment_Kishore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\vekishor\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:T:**************Execution Started*********************
+Thread#0:T:**************Scenarios Execution Started***************
+Thread#0:B:Given Launch browser with Google search engine
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.GivenLaunchBrowserWithGoogleSearchEngine() (5.5s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\TestResults\tmp319D.jpg ]SCREENSHOT
+Thread#0:B:When user enter 'Aviva' in google search
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenUserEnterInGoogleSearch("Aviva") (0.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\TestResults\tmp3363.jpg ]SCREENSHOT
+Thread#0:B:And click on search button
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenClickOnSearchButton() (4.4s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\TestResults\tmp45F2.jpg ]SCREENSHOT
+Thread#0:B:Then user should display links returned in resultspage and verify '12'
+Thread#0:T:********* Output links for input keyword *********
+Thread#0:T:https://online.avivaindia.com/
+Thread#0:T:https://www.avivaindia.com/
+Thread#0:T:https://www.avivaindia.com/child-plan/aviva-young-scholar-secure
+Thread#0:T:https://en.wikipedia.org/wiki/Aviva
+Thread#0:T:https://en.wikipedia.org/wiki/Aviva_India
+Thread#0:T:https://www.facebook.com/AvivaIndia/
+Thread#0:T:https://www.aviva.com/
+Thread#0:T:***** Results Link Count ******* 
+Thread#0:T:7
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.ThenUserShouldDisplayLinksReturnedInResultspageAndVerify(12) (0.2s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\TestResults\tmp47B8.jpg ]SCREENSHOT
+Thread#0:B:And user should display '5' link
+Thread#0:T:***** 5th link ******* 
+Thread#0:T:https://www.facebook.com/AvivaIndia/
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.ThenUserShouldDisplayLink(5) (0.0s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\TestResults\tmp4901.jpg ]SCREENSHOT
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0:T:*****************Scenario Execution Completed****************
+Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 20.8008512 seconds
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:T:**************Scenarios Execution Started***************
+Thread#0:B:Given Launch browser with Google search engine
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.GivenLaunchBrowserWithGoogleSearchEngine() (8.9s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\TestResults\tmp8CA3.jpg ]SCREENSHOT
+Thread#0:B:When user enter 'Aviva' in google search
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenUserEnterInGoogleSearch("Aviva") (0.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\TestResults\tmp8E2A.jpg ]SCREENSHOT
+Thread#0:B:And click on search button
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenClickOnSearchButton() (5.0s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\TestResults\tmpA2DC.jpg ]SCREENSHOT
+Thread#0:B:Then click on Aviva Login Link in the Google Search Page
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.ThenClickOnAvivaLoginLinkInTheGoogleSearchPage() (0.8s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\TestResults\tmpAAEC.jpg ]SCREENSHOT
+Thread#0:B:And verify Title of the 'AVIVA Insta Access ™ - Access without Login' of the Aviva Home Page
+Thread#0:T:AVIVA Insta Access ™ - Access without Login
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.ThenVerifyTitleOfTheOfTheAvivaHomePage("AVIVA Insta Acces...") (0.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\TestResults\tmpACE1.jpg ]SCREENSHOT
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #6 from normal test queue 
+Thread#0:Scheduler: considering testitem #6 for thread 0
+Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #6 for thread 0
+Thread#0:Scheduler: Test #6 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0:T:*****************Scenario Execution Completed****************
+Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 25.592028 seconds
+Thread#0: Test #6/0 is started on thread #0
+Thread#0:T:**************Scenarios Execution Started***************
+Thread#0:B:Given Launch browser with Google search engine
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.GivenLaunchBrowserWithGoogleSearchEngine() (6.6s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\TestResults\tmpE835.jpg ]SCREENSHOT
+Thread#0:B:When user enter 'Aviva' in google search
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenUserEnterInGoogleSearch("Aviva") (0.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\TestResults\tmpE9AD.jpg ]SCREENSHOT
+Thread#0:B:And click on search button
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenClickOnSearchButton() (4.5s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\TestResults\tmpFCC9.jpg ]SCREENSHOT
+Thread#0:B:Then click on Aviva Login Link in the Google Search Page and click on Login
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.ThenClickOnAvivaLoginLinkInTheGoogleSearchPageAndClickOnLogin() (1.7s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\TestResults\tmp4B9.jpg ]SCREENSHOT
+Thread#0:B:And verify the Error Message in the Aviva Login Page
+Thread#0:T:********Error Meassage********
+Thread#0:T:Please fill in all 3 fields.
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.ThenVerifyTheErrorMessageInTheAvivaLoginPage() (0.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\Default User\Downloads\final_new - Copy\Aviva_Assignment\Aviva_Assignment\TestResults\tmp641.jpg ]SCREENSHOT
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0:T:*****************Scenario Execution Completed****************
+Thread#0:T:***************Information Captured in Reports*************
+Thread#0: Test #6/0 is finished on thread #0 as Succeeded within 24.1839612 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 3
+Succeeded: 3
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0

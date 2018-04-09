@@ -1,0 +1,36 @@
+﻿{
+	"Pages": {
+		"Google_Home": {
+			"googleSearchBox": {
+				"Locator": "q",
+				"Locator_Type": "Name"
+			},
+			"avivaHomePageLink": {
+				"Locator": "//h3[@class='r']//a[contains(text(),'Aviva Life Insurance - Login')]",
+				"Locator_Type": "Xpath"
+			},
+      "linksCount": {
+        "Locator": "//cite[@class='iUh30']",
+        "Locator_Type": "Xpath"
+      }
+
+		},
+
+		"Aviva_Login": {
+			"title": {
+				"Locator": "istance",
+				"Locator_Type": "Class"
+			},
+			"login": {
+				"Locator": "lnkLogin",
+				"Locator_Type": "ID"
+			},
+			"loginError": {
+				"Locator": "spnError",
+				"Locator_Type": "ID"
+			}
+		}
+	}
+}
+
+

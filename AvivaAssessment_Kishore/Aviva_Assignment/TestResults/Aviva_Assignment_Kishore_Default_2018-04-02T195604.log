@@ -1,0 +1,55 @@
+﻿2018-04-02T19:56:04.7966116+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-02T19:56:04.8836203+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-02T19:56:04.8836203+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\vekishor\Documents\final_new - Copy\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-04-02T19:56:04.8836203+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-02T19:56:16.2367555+05:30;Thread#13;Info;Discovering target: Default
+2018-04-02T19:56:16.2387557+05:30;Thread#13;Info;Discovering tests from assembly: D:\Users\vekishor\Documents\final_new - Copy\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+Appdomain Disposed
+Test Suite Dump
+#0: Aviva_Assignment_Kishore/Default - 
+#1: Default - 
+#2: Aviva_Assignment_Kishore - 
+#3: Verify the count of Links displayed for the search text and Print 5th Link Text - 
+#4: Search with Aviva and verify results links, Aviva - TestAssembly:Aviva_Assignment_Kishore/Feature:Verify+the+count+of+Links+displayed+for+the+search+text+and+Print+5th+Link+Text/Scenario:Search+with+Aviva+and+verify+results+links%2c+Aviva
+#5: Verify Title in Aviva Home Page, Aviva - TestAssembly:Aviva_Assignment_Kishore/Feature:Verify+the+count+of+Links+displayed+for+the+search+text+and+Print+5th+Link+Text/Scenario:Verify+Title+in+Aviva+Home+Page%2c+Aviva
+#6: Verify Error Message in Aviva Login Page, Aviva - TestAssembly:Aviva_Assignment_Kishore/Feature:Verify+the+count+of+Links+displayed+for+the+search+text+and+Print+5th+Link+Text/Scenario:Verify+Error+Message+in+Aviva+Login+Page%2c+Aviva
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for Aviva_Assignment_Kishore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\vekishor\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Cancelling because configured number of failures reached
+Thread#0: Test #4/0 is finished on thread #0 as InitializationFailed within 8.9627321 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#-1:Scheduler: considering testitem #5 for thread -1
+Thread#-1:Scheduler: using testitem #5 for thread -1
+Thread#-1:Scheduler: Test #5 is scheduled for thread
+Thread#-1: Test #5/0 is started on thread #-1
+Thread#-1: Test #5/0 is finished on thread #-1 as Skipped within 0 seconds
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: testitem #6 from normal test queue 
+Thread#-1:Scheduler: considering testitem #6 for thread -1
+Thread#-1:Scheduler: using testitem #6 for thread -1
+Thread#-1:Scheduler: Test #6 is scheduled for thread
+Thread#-1: Test #6/0 is started on thread #-1
+Thread#-1: Test #6/0 is finished on thread #-1 as Skipped within 0 seconds
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 3
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 2
+Failed: 1

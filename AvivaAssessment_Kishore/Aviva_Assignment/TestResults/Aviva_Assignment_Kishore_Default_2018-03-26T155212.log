@@ -1,0 +1,299 @@
+﻿2018-03-26T15:41:45.5825721+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-26T15:41:45.8515721+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-26T15:41:45.8525721+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-03-26T15:41:45.8525721+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-26T15:41:51.0355721+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-26T15:41:51.0375721+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-03-26T15:41:57.0129894+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\vekishor\Documents\Visual%20Studio%202015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\Aviva_Assignment_Kishore_Default_2018-03-26T154145.log
+2018-03-26T15:41:57.0129894+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-26T15:44:55.3186175+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-26T15:44:55.3316175+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-26T15:44:55.3326175+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-03-26T15:44:55.3336175+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-26T15:45:08.3536175+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-26T15:45:08.3556175+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-03-26T15:45:11.9348799+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\vekishor\Documents\Visual%20Studio%202015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\Aviva_Assignment_Kishore_Default_2018-03-26T154455.log
+2018-03-26T15:45:11.9348799+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-26T15:46:09.9398745+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-26T15:46:09.9578745+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-26T15:46:09.9588745+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-03-26T15:46:09.9598745+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-26T15:46:20.9688745+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-26T15:46:20.9748745+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-03-26T15:46:24.9556319+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\vekishor\Documents\Visual%20Studio%202015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\Aviva_Assignment_Kishore_Default_2018-03-26T154609.log
+2018-03-26T15:46:24.9712317+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-26T15:49:45.8801459+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-26T15:49:45.8961459+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-26T15:49:45.8981459+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-03-26T15:49:45.8991459+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-26T15:49:50.9071459+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-26T15:49:50.9091459+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-03-26T15:50:23.9145459+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\vekishor\Documents\Visual%20Studio%202015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\Aviva_Assignment_Kishore_Default_2018-03-26T154945.log
+2018-03-26T15:50:23.9165459+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-26T15:52:12.3286459+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-26T15:52:12.3456459+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-26T15:52:12.3476459+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-03-26T15:52:12.3476459+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-26T15:52:19.4146459+05:30;Thread#16;Info;Discovering target: Default
+2018-03-26T15:52:19.4166459+05:30;Thread#16;Info;Discovering tests from assembly: D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+Appdomain Disposed
+Test Suite Dump
+#0: Aviva_Assignment_Kishore/Default - 
+#1: Default - 
+#2: Aviva_Assignment_Kishore - 
+#3: Verify the count of Links displayed for the search text and Print 5th Link Text - 
+#4: Search with Aviva and verify results links, Aviva - TestAssembly:Aviva_Assignment_Kishore/Feature:Verify+the+count+of+Links+displayed+for+the+search+text+and+Print+5th+Link+Text/Scenario:Search+with+Aviva+and+verify+results+links%2c+Aviva
+#5: Verify Title in Aviva Home Page, Aviva - TestAssembly:Aviva_Assignment_Kishore/Feature:Verify+the+count+of+Links+displayed+for+the+search+text+and+Print+5th+Link+Text/Scenario:Verify+Title+in+Aviva+Home+Page%2c+Aviva
+#6: Verify Error Message in Aviva SignUp Page, Aviva - TestAssembly:Aviva_Assignment_Kishore/Feature:Verify+the+count+of+Links+displayed+for+the+search+text+and+Print+5th+Link+Text/Scenario:Verify+Error+Message+in+Aviva+SignUp+Page%2c+Aviva
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for Aviva_Assignment_Kishore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\vekishor\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given Launch browser with Google search engine
+Thread#0:T:*********************PATH***********
+Thread#0:T:D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\Locator.json
+Thread#0:T:*********************PATH***********
+Thread#0:T:D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\Locator.json
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.GivenLaunchBrowserWithGoogleSearchEngine() (6.4s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmpE767.jpg ]SCREENSHOT
+Thread#0:B:When user enter 'Aviva' in google search
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenUserEnterInGoogleSearch("Aviva") (0.4s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmpEC19.jpg ]SCREENSHOT
+Thread#0:B:And click on search button
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenClickOnSearchButton() (5.3s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmp41D.jpg ]SCREENSHOT
+Thread#0:B:Then user should display links returned in resultspage and verify '12'
+Thread#0:T:********* Output links for input keyword *********
+Thread#0:T:Aviva Life Insurance - Login
+Thread#0:T:Pay Premium
+Thread#0:T:Aviva Life
+Thread#0:T:Aviva Life Insurance Policies & Plans In India | Buy Online
+Thread#0:T:Contact Us | Aviva India
+Thread#0:T:Aviva Life Insurance Plans & Policies India, Best Types With Details
+Thread#0:T:Aviva - Wikipedia
+Thread#0:T:Aviva plc - Group website - Aviva plc
+Thread#0:T:Aviva - Home | Facebook
+Thread#0:T:Aviva Branches in Hyderabad - Address & Contact Details
+Thread#0:T:***** Results Link Count ******* 
+Thread#0:T:10
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.ThenUserShouldDisplayLinksReturnedInResultspageAndVerify(12) (0.9s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmpA74.jpg ]SCREENSHOT
+Thread#0:B:And user should display '5' link
+Thread#0:T:***** 5th link ******* 
+Thread#0:T:Aviva Life Insurance Plans & Policies India, Best Types With Details
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.ThenUserShouldDisplayLink(5) (0.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmpE5B.jpg ]SCREENSHOT
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 26.6305 seconds
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:B:Given Launch browser with Google search engine
+Thread#0:T:*********************PATH***********
+Thread#0:T:D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\Locator.json
+Thread#0:T:*********************PATH***********
+Thread#0:T:D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\Locator.json
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.GivenLaunchBrowserWithGoogleSearchEngine() (6.8s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmp49B7.jpg ]SCREENSHOT
+Thread#0:B:When user enter 'Aviva' in google search
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenUserEnterInGoogleSearch("Aviva") (0.2s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmp4E0C.jpg ]SCREENSHOT
+Thread#0:B:And click on search button
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenClickOnSearchButton() (5.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmp65FF.jpg ]SCREENSHOT
+Thread#0:B:Then click on Aviva Login Link in the Google Search Page
+Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Aviva']"}
+Thread#0:T:  (Session info: chrome=64.0.3282.186)
+Thread#0:T:  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 6.1.7601 SP1 x86_64)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmp2D83.jpg ]SCREENSHOT
+Thread#0:B:And verify Title of the 'AVIVA Insta Access ™ - Access without Login' of the Aviva Home Page
+Thread#0:T:skipped because of previous errors
+Thread#0:TestItem#5:Scheduler: reschedule tests for testitem #5
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 1
+Thread#0: Test #5/0 is finished on thread #0 as Failed within 73.4902 seconds
+Thread#0: Test #5/1 is started on thread #0
+Thread#0:B:Given Launch browser with Google search engine
+Thread#0:T:*********************PATH***********
+Thread#0:T:D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\Locator.json
+Thread#0:T:*********************PATH***********
+Thread#0:T:D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\Locator.json
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.GivenLaunchBrowserWithGoogleSearchEngine() (7.5s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmp6BEC.jpg ]SCREENSHOT
+Thread#0:B:When user enter 'Aviva' in google search
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenUserEnterInGoogleSearch("Aviva") (0.2s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmp6FF1.jpg ]SCREENSHOT
+Thread#0:B:And click on search button
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenClickOnSearchButton() (5.0s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmp872A.jpg ]SCREENSHOT
+Thread#0:B:Then click on Aviva Login Link in the Google Search Page
+Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Aviva']"}
+Thread#0:T:  (Session info: chrome=64.0.3282.186)
+Thread#0:T:  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 6.1.7601 SP1 x86_64)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmp4E31.jpg ]SCREENSHOT
+Thread#0:B:And verify Title of the 'AVIVA Insta Access ™ - Access without Login' of the Aviva Home Page
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 2
+Thread#0: Test #5/1 is finished on thread #0 as Failed within 73.8044 seconds
+Thread#0: Test #5/2 is started on thread #0
+Thread#0:T:Unable to connect to the remote server
+Thread#0:B:Given Launch browser with Google search engine
+Thread#0:T:*********************PATH***********
+Thread#0:T:D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\Locator.json
+Thread#0:T:*********************PATH***********
+Thread#0:T:D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\Locator.json
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.GivenLaunchBrowserWithGoogleSearchEngine() (6.6s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmp905F.jpg ]SCREENSHOT
+Thread#0:B:When user enter 'Aviva' in google search
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenUserEnterInGoogleSearch("Aviva") (0.3s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmp9551.jpg ]SCREENSHOT
+Thread#0:B:And click on search button
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenClickOnSearchButton() (6.3s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmpB1A8.jpg ]SCREENSHOT
+Thread#0:B:Then click on Aviva Login Link in the Google Search Page
+Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Aviva']"}
+Thread#0:T:  (Session info: chrome=64.0.3282.186)
+Thread#0:T:  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 6.1.7601 SP1 x86_64)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmp78FC.jpg ]SCREENSHOT
+Thread#0:B:And verify Title of the 'AVIVA Insta Access ™ - Access without Login' of the Aviva Home Page
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #6 from normal test queue 
+Thread#0:Scheduler: considering testitem #6 for thread 0
+Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #6 for thread 0
+Thread#0:Scheduler: Test #6 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #5/2 is finished on thread #0 as Failed within 76.4109895 seconds
+Thread#0: Test #6/0 is started on thread #0
+Thread#0:B:Given Launch browser with Google search engine
+Thread#0:T:*********************PATH***********
+Thread#0:T:D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\Locator.json
+Thread#0:T:*********************PATH***********
+Thread#0:T:D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\Locator.json
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.GivenLaunchBrowserWithGoogleSearchEngine() (6.7s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmpB264.jpg ]SCREENSHOT
+Thread#0:B:When user enter 'Aviva' in google search
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenUserEnterInGoogleSearch("Aviva") (0.3s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmpB736.jpg ]SCREENSHOT
+Thread#0:B:And click on search button
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenClickOnSearchButton() (5.0s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmpCE9D.jpg ]SCREENSHOT
+Thread#0:B:Then click on Aviva Login Link in the Google Search Page and click on SignUp
+Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Aviva']"}
+Thread#0:T:  (Session info: chrome=64.0.3282.186)
+Thread#0:T:  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 6.1.7601 SP1 x86_64)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmp95B4.jpg ]SCREENSHOT
+Thread#0:B:And click on Submit Button and verify the Error Message in the Aviva Login Page
+Thread#0:T:skipped because of previous errors
+Thread#0:TestItem#6:Scheduler: reschedule tests for testitem #6
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+Thread#0:Scheduler: considering testitem #6 for thread 0
+Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #6 for thread 0
+Thread#0:Scheduler: Test #6 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 1
+Thread#0: Test #6/0 is finished on thread #0 as Failed within 72.8423608 seconds
+Thread#0: Test #6/1 is started on thread #0
+Thread#0:B:Given Launch browser with Google search engine
+Thread#0:T:*********************PATH***********
+Thread#0:T:D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\Locator.json
+Thread#0:T:*********************PATH***********
+Thread#0:T:D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\Locator.json
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.GivenLaunchBrowserWithGoogleSearchEngine() (5.8s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmpCE13.jpg ]SCREENSHOT
+Thread#0:B:When user enter 'Aviva' in google search
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenUserEnterInGoogleSearch("Aviva") (0.2s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmpD219.jpg ]SCREENSHOT
+Thread#0:B:And click on search button
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenClickOnSearchButton() (4.7s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmpE849.jpg ]SCREENSHOT
+Thread#0:B:Then click on Aviva Login Link in the Google Search Page and click on SignUp
+Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Aviva']"}
+Thread#0:T:  (Session info: chrome=64.0.3282.186)
+Thread#0:T:  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 6.1.7601 SP1 x86_64)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmpAF11.jpg ]SCREENSHOT
+Thread#0:B:And click on Submit Button and verify the Error Message in the Aviva Login Page
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+Thread#0:Scheduler: considering testitem #6 for thread 0
+Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #6 for thread 0
+Thread#0:Scheduler: Test #6 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 2
+Thread#0: Test #6/1 is finished on thread #0 as Failed within 72.0042948 seconds
+Thread#0: Test #6/2 is started on thread #0
+Thread#0:B:Given Launch browser with Google search engine
+Thread#0:T:*********************PATH***********
+Thread#0:T:D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\Locator.json
+Thread#0:T:*********************PATH***********
+Thread#0:T:D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\Aviva_Assignment_Kishore\Locator.json
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.GivenLaunchBrowserWithGoogleSearchEngine() (5.9s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmpE57D.jpg ]SCREENSHOT
+Thread#0:B:When user enter 'Aviva' in google search
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenUserEnterInGoogleSearch("Aviva") (0.3s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmpE945.jpg ]SCREENSHOT
+Thread#0:B:And click on search button
+Thread#0:T:done: VerifyTheCountOfLinksDisplayedForTheSearchTextAndPrint5ThLinkTextSteps.WhenClickOnSearchButton() (4.8s)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmpFFD3.jpg ]SCREENSHOT
+Thread#0:B:Then click on Aviva Login Link in the Google Search Page and click on SignUp
+Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Aviva']"}
+Thread#0:T:  (Session info: chrome=64.0.3282.186)
+Thread#0:T:  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 6.1.7601 SP1 x86_64)
+Thread#0:T:SCREENSHOT[ file:///D:\Users\vekishor\Documents\Visual Studio 2015\Aviva_Assignment_Csharp\Aviva_Assignment\TestResults\tmpC718.jpg ]SCREENSHOT
+Thread#0:B:And click on Submit Button and verify the Error Message in the Aviva Login Page
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #6/2 is finished on thread #0 as Failed within 73.6399507 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 3 (test executions: 7)
+Succeeded: 1
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 2

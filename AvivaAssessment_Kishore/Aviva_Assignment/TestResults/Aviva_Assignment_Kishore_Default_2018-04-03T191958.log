@@ -1,0 +1,27 @@
+﻿2018-04-03T18:44:25.0143978+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-03T18:44:25.3034267+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-03T18:44:25.3054269+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\vekishor\Documents\final_update\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-04-03T18:44:25.3064270+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-03T18:44:37.5196482+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-04-03T18:44:37.5206483+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\vekishor\Documents\final_update\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-04-03T18:45:39.2221696+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\vekishor\Documents\final_update\Aviva_Assignment\Aviva_Assignment\TestResults\Aviva_Assignment_Kishore_Default_2018-04-03T184425.log
+2018-04-03T18:45:39.2377697+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-04-03T18:46:07.6489346+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-03T18:46:07.6609358+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-03T18:46:07.6619359+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\vekishor\Documents\final_update\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-04-03T18:46:07.6629360+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-03T18:46:20.6662362+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-04-03T18:46:20.6702366+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\vekishor\Documents\final_update\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-04-03T18:47:21.9602531+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\vekishor\Documents\final_update\Aviva_Assignment\Aviva_Assignment\TestResults\Aviva_Assignment_Kishore_Default_2018-04-03T184607.log
+2018-04-03T18:47:21.9602531+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-04-03T18:49:08.9870308+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-03T18:49:08.9960317+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-03T18:49:08.9970318+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\vekishor\Documents\final_update\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-04-03T18:49:08.9970318+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-03T18:49:22.0033323+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-04-03T18:49:22.0053325+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\vekishor\Documents\final_update\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Debug\Aviva_Assignment_Kishore.dll
+2018-04-03T18:50:39.4939228+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\vekishor\Documents\final_update\Aviva_Assignment\Aviva_Assignment\TestResults\Aviva_Assignment_Kishore_Default_2018-04-03T184908.log
+2018-04-03T18:50:39.4939228+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-04-03T19:19:07.2795827+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-03T19:19:07.2905838+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-03T19:19:07.2915839+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\vekishor\Documents\final_update\Aviva_Assignment\Aviva_Assignment\Aviva_Assignment_Kishore\bin\Deb
