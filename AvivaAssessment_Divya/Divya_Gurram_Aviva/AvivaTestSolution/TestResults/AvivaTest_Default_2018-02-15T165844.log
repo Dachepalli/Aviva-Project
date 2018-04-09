@@ -1,0 +1,83 @@
+﻿2018-02-15T16:58:44.7996477+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-02-15T16:58:44.8716477+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-02-15T16:58:44.8726477+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Divya_Assesment_Final\AvivaAssessment_Divya\Divya_Gurram_Aviva\AvivaTestSolution\AvivaTest\bin\Debug\AvivaTest.dll
+2018-02-15T16:58:44.8726477+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-02-15T16:58:55.0046477+05:30;Thread#14;Info;Discovering target: Default
+2018-02-15T16:58:55.0056477+05:30;Thread#14;Info;Discovering tests from assembly: D:\Divya_Assesment_Final\AvivaAssessment_Divya\Divya_Gurram_Aviva\AvivaTestSolution\AvivaTest\bin\Debug\AvivaTest.dll
+Appdomain Disposed
+Test Suite Dump
+#0: AvivaTest/Default - 
+#1: Default - 
+#2: AvivaTest - 
+#3: AvivaTest - 
+#4: Verify Aviva Search and Print Fifth Link Text  in the Search Results Page, Aviva - TestAssembly:AvivaTest/Feature:AvivaTest/Scenario:Verify+Aviva+Search+and+Print+Fifth+Link+Text++in+the+Search+Results+Page%2c+Aviva
+#5: Verify Aviva google page with wrong name - TestAssembly:AvivaTest/Feature:AvivaTest/Scenario:Verify+Aviva+google+page+with+wrong+name
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for AvivaTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\dgurram\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.6.1\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given Launch GoogleHome Page
+Thread#0:T:done: AvivaGoogleTestSteps.GivenLaunchGoogleHomePage() (9.9s)
+Thread#0:T:SCREENSHOT[ file:///D:\Divya_Assesment_Final\AvivaAssessment_Divya\Divya_Gurram_Aviva\AvivaTestSolution\TestResults\tmp55DA.jpg ]SCREENSHOT
+Thread#0:B:And Search With "Aviva"
+Thread#0:T:done: AvivaGoogleTestSteps.GivenSearchWith("Aviva") (0.3s)
+Thread#0:T:SCREENSHOT[ file:///D:\Divya_Assesment_Final\AvivaAssessment_Divya\Divya_Gurram_Aviva\AvivaTestSolution\TestResults\tmp5899.jpg ]SCREENSHOT
+Thread#0:B:When click on Search Button
+Thread#0:T:done: AvivaGoogleTestSteps.WhenClickOnSearchButton() (5.7s)
+Thread#0:T:SCREENSHOT[ file:///D:\Divya_Assesment_Final\AvivaAssessment_Divya\Divya_Gurram_Aviva\AvivaTestSolution\TestResults\tmp706E.jpg ]SCREENSHOT
+Thread#0:B:Then User verifies and prints the number of search results returned
+Thread#0:T:Aviva Google SearchResults: 9
+Thread#0:T:done: AvivaGoogleTestSteps.ThenUserVerifiesAndPrintsTheNumberOfSearchResultsReturned() (0.0s)
+Thread#0:T:SCREENSHOT[ file:///D:\Divya_Assesment_Final\AvivaAssessment_Divya\Divya_Gurram_Aviva\AvivaTestSolution\TestResults\tmp7214.jpg ]SCREENSHOT
+Thread#0:B:And User prints the link text of 5th link
+Thread#0:T:Fifth Link Text: Aviva - Wikipedia
+Thread#0:T:done: AvivaGoogleTestSteps.ThenUserPrintsTheLinkTextOfThLink(5) (0.0s)
+Thread#0:T:SCREENSHOT[ file:///D:\Divya_Assesment_Final\AvivaAssessment_Divya\Divya_Gurram_Aviva\AvivaTestSolution\TestResults\tmp73F9.jpg ]SCREENSHOT
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 23.8350278 seconds
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:B:Given Launch GoogleHome Page
+Thread#0:T:done: AvivaGoogleTestSteps.GivenLaunchGoogleHomePage() (10.2s)
+Thread#0:T:SCREENSHOT[ file:///D:\Divya_Assesment_Final\AvivaAssessment_Divya\Divya_Gurram_Aviva\AvivaTestSolution\TestResults\tmpB30C.jpg ]SCREENSHOT
+Thread#0:B:And Search With Text "Aviva"
+Thread#0:T:done: AvivaGoogleTestSteps.GivenSearchWithText("Aviva") (0.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Divya_Assesment_Final\AvivaAssessment_Divya\Divya_Gurram_Aviva\AvivaTestSolution\TestResults\tmpB5AB.jpg ]SCREENSHOT
+Thread#0:B:When click on Search Button
+Thread#0:T:done: AvivaGoogleTestSteps.WhenClickOnSearchButton() (7.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Divya_Assesment_Final\AvivaAssessment_Divya\Divya_Gurram_Aviva\AvivaTestSolution\TestResults\tmpD369.jpg ]SCREENSHOT
+Thread#0:B:Then verify the Browser title "SamplePage"
+Thread#0:T:done: AvivaGoogleTestSteps.ThenVerifyTheBrowserTitle("SamplePage") (0.0s)
+Thread#0:T:SCREENSHOT[ file:///D:\Divya_Assesment_Final\AvivaAssessment_Divya\Divya_Gurram_Aviva\AvivaTestSolution\TestResults\tmpD510.jpg ]SCREENSHOT
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 24.8171519 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 2
+Succeeded: 2
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0

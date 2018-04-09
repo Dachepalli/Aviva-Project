@@ -1,0 +1,54 @@
+﻿2017-09-25T13:45:38.0632090+05:30;Thread#1;Info;Discovering target: Default
+2017-09-25T13:45:38.1772204+05:30;Thread#1;Info;Discovering tests from assembly: D:\Prasad\AvivaTestSolution\AvivaTest\bin\Debug\AvivaTest.dll
+Appdomain Disposed
+Test Suite Dump
+#0: AvivaTest/Default - 
+#1: Default - 
+#2: AvivaTest - 
+#3: AvivaTest - 
+#4: Fifth Link Text - TestAssembly:AvivaTest/Feature:AvivaTest/Scenario:Fifth+Link+Text
+#5: Verify link Count - TestAssembly:AvivaTest/Feature:AvivaTest/Scenario:Verify+link+Count
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for AvivaTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: D:\Prasad\AvivaTestSolution\packages\SpecRun.Runner.1.6.1\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given Go To Google
+Thread#0:T:done: AvivaTestSteps.GivenGoToGoogle() (7.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Prasad\AvivaTestSolution\AvivaTest\bin\Debug\tmpBD01.jpg ]SCREENSHOT
+Thread#0:B:And Search With Text "Aviva"
+Thread#0:T:done: AvivaTestSteps.GivenSearchWithText("Aviva") (0.2s)
+Thread#0:T:SCREENSHOT[ file:///D:\Prasad\AvivaTestSolution\AvivaTest\bin\Debug\tmpC03C.jpg ]SCREENSHOT
+Thread#0:B:When click on Search Button
+Thread#0:T:error: Exception has been thrown by the target of an invocation.
+Thread#0:T:SCREENSHOT[ file:///D:\Prasad\AvivaTestSolution\AvivaTest\bin\Debug\tmpC29E.jpg ]SCREENSHOT
+Thread#0:B:Then Print Fifth Link text
+Thread#0:T:skipped because of previous errors
+Cancelling because configured number of failures reached
+Thread#0: Test #4/0 is finished on thread #0 as Failed within 16.3966395 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#-1:Scheduler: considering testitem #5 for thread -1
+Thread#-1:Scheduler: using testitem #5 for thread -1
+Thread#-1:Scheduler: Test #5 is scheduled for thread
+Thread#-1: Test #5/0 is started on thread #-1
+Thread#-1: Test #5/0 is finished on thread #-1 as Skipped within 0 seconds
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 2
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 1
+Failed: 1
